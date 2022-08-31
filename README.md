@@ -6,6 +6,7 @@ For those who have an old Intel or ATI/AMD GPU.
 
 Some recommended settings for maximum performance for running FlightGear on Intel GPUS like the HD3000 and HD4000.
 
+https://github.com/Megaf/FlightGear_Settings_Intel_GPU/blob/main/FlightGear_Settings_Intel-HD.txt
 Add these to either in the Launcher in Settings -> Advanced Settings or to your .fgfsrc
 
 ## Screenshot
