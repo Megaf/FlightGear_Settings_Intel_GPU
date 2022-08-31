@@ -20,3 +20,7 @@
 --prop:/sim/ai/enabled=0
 --disable-ai-traffic
 --disable-ai-models
+
+ --prop:/sim/rendering/clouds3d-density=0.10
+ --prop:/sim/rendering/clouds3d-vis-range=20000
+ 
