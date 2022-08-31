@@ -8,5 +8,8 @@ Some recommended settings for maximum performance for running FlightGear on Inte
 
 Add these to either in the Launcher in Settings -> Advanced Settings or to your .fgfsrc
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/6201512/187685685-644c4c0c-0698-46db-9dbb-1e0cd8afa2a0.png)
+**Advanced Settings** in the Launcher.
 
 #FlightGear #BestSetting #HighFPS #Intel #GPU
