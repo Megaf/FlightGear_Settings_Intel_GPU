@@ -15,6 +15,7 @@
 --prop:/sim/rendering/static-lod/rough-delta=3000
 --prop:/sim/rendering/static-lod/bare-delta=56000
 --visibility=20000
+--prop:/sim/frame-rate-throttle-hz=30
 
 --prop:/sim/traffic-manager/enabled=0
 --prop:/sim/ai/enabled=0
